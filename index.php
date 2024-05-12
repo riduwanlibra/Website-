@@ -40,7 +40,7 @@ $siswa = query("SELECT * FROM siswa ORDER BY nis DESC");
      <title>Home</title>
 </head>
 
-<body background="img/bg/bck.png">
+<body background="bck.png">
      <!-- Navbar -->
      <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase">
           <div class="container">
